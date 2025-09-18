@@ -42,8 +42,8 @@ An online system that enables students to take exams 🖥️, view results 📊,
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** ASP.NET (C#) using **ADO.NET** for database operations  
+- **Frontend:** HTML, CSS, JavaScript,Windows Form
+- **Backend:** .NET (C#) **ADO.NET** for database operations  
 - **Database:** SQL Server  
 
 ---
